@@ -4,5 +4,6 @@
 
 ![system](images/system.jpg)
 
-![led_video](images/led_video.mp4)
+<video src="images/led_video.mp4" controls="controls" muted="muted" width="100%">
+</video>
 
