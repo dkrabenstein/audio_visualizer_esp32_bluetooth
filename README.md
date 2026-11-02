@@ -27,6 +27,9 @@ The frequency axis is spaciely mapped to the LED strip. The start of the strip b
 Spatial Gradient Improved
 Instead of using linear mapping of frequency bins this algorithm using logrithmic mapping. This simulates how the human ear regognizes sound. Additonally, instead of mapping one frequency bin value directly to an LED, this algorithm takes an average of multiple bins. This algorithm also uses past volumes to ajust the noise thresholds. 
 
+Flash
+
+
 ![system](images/system.jpg)
 https://github.com/user-attachments/assets/1921ffde-b979-4599-bade-37820933f76e
 
